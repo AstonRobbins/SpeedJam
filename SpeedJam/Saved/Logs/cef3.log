@@ -1,1 +1,21 @@
-[1130/095214.025:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1130/130853.877:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(85,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1130/130854.070:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1130/130902.242:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(160,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1130/130902.302:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(160,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1130/130902.360:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(160,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1130/130903.364:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(409,10-38): warning X4008: floating point division by zero
+C:\fakepath(409,10-38): warning X4008: floating point division by zero
+
